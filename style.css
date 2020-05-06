@@ -1,0 +1,204 @@
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.yellow{
+    background-color: #512b58;
+    color: #f0a500;
+}
+
+.center{
+    text-align: center;
+}
+.content{
+    padding: 30px;
+}
+
+.oa{
+    overflow:auto;
+}
+.header{
+    padding : 20px 0;
+}
+
+.header-container{
+    padding: 20px 0;
+}
+
+.header-container img{
+    width: 140px;
+    border-radius: 50%;
+    border: 10px solid #ffd;
+}
+.nav{
+    width: auto;
+    float: right;
+    padding: 20px 0;
+}
+
+.nav a{
+    text-decoration: none;
+    color: #f0a500 ;
+    margin: 0 8px;  
+}
+
+.nav a:hover
+{
+    color: #00b0ff;
+}
+
+.nama{
+    font-family: 'Sacramento', cursive;
+    letter-spacing: 3px;
+    font-size: 50pt;
+    text-align: center;
+    color: #f0a500; 
+}
+
+.detail-nama{
+    text-align: center;
+    color: #f0a500;
+    font-weight: 800;
+    font-size: 18pt;
+    letter-spacing: 3px;
+    font-style: italic;
+}
+
+.background-nama{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.round-image img{
+    width: 310px;
+    border: 2px solid #222;
+    padding: 1px;
+    border-radius: 50%;
+    
+}
+
+.title{
+    font-size: 20pt;
+    margin-top: 16px;
+    text-align: center;
+}
+
+.rincian-1{
+    max-width: 720px;
+    margin: 16px auto;
+    line-height: 26px;
+}
+
+.profil-title{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 24pt;
+}
+
+.profil
+{
+    margin-top: 50px;
+    min-height: 160px;
+    max-width: 840px;
+    margin: 50px auto;
+}
+
+.profil p
+{
+    line-height: 2;
+}
+
+.profil-kiri > div
+{
+    margin-left: 220px;
+}
+
+.profil-kanan > div
+{
+    margin-right: 220px;
+}
+
+.profil > img
+{
+    width: 120px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.profil-kiri > img
+{
+    float: left;
+}
+
+.profil-kanan > img
+{
+    float: right;
+}
+
+.skill-logo
+{
+    background-color: #ffb30f;
+}
+
+.org-logo
+{
+    background-color: #15f7e4;
+}
+
+.it-logo
+{
+    background-color: #36f736;
+}
+
+.footer
+{
+    padding: 30px 100px;
+    background-color: #162447;
+
+}
+
+.footer a
+{
+    text-decoration: none;
+}
+
+.footer > div
+{
+    text-align: center;
+}
+
+.navbot a
+{
+    margin: 0 30px;
+    color: #fff;
+    font-size: 14pt;
+}
+
+.navbot a:hover
+{
+    color: #fb0;
+}
+
+.sosmed
+{
+    margin-top: 20px;
+}
+
+.sosmed a
+{
+    color: #aaa;
+    margin: 0 50px;
+    font-size: 14pt;
+}
+
+.sosmed a:hover
+{
+    color: #fff;
+}
+
+.footer hr
+{
+    width: 300px;
+    margin-top: 20px;
+}
